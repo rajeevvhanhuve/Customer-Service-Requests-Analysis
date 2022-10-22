@@ -1,4 +1,4 @@
-# Data Science with Python: Project 1
+# Data Science with Python: Project 2
 
 ### Customer Service Requests Analysis
 

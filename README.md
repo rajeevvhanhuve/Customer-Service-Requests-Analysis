@@ -81,5 +81,7 @@ Dataset Description:
 | Longitude 	| (Number) - Longitude of the location |
 | Location 	| (Location) - Coordinates (Latitude, Longitude) |
 
+Please download the dataset from [here](https://github.com/Simplilearn-Edu/Data-Science-with-Python-Project-2-)
+
 Good Luck!!
 
